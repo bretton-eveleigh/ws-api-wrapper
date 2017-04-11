@@ -1,0 +1,70 @@
+{
+	server_time: "2017-04-11 15:11:54",
+	server_time_uts: 1491916314,
+	authenticated: true,
+	user_key: "SACAP-EDUDEX",
+	user: false,
+	app_dist: false,
+	client_name: "WS-SACAP-001",
+	client_api_state: 1,
+	input_file: false,
+	output_file: false,
+	method: "POST",
+	endpoint: "api_test",
+	public_key: "nhSnG34jMzQvBTmv",
+	error: false,
+	error_msg: false,
+	response: {
+		request_log: [],
+		debug_headers: {
+			Host: "ws-wrapper.local",
+			Accept: "*/*",
+			Content-Length: "4761",
+			Expect: "100-continue",
+			Content-Type: "multipart/form-data; boundary=------------------------27030b46bd8717fa"
+		},
+		debug_get: {
+			request: "api_test/",
+			h: "JNTh7lhR6mJQsGmf4V9m/J9v8RzSHQ/OUHAkhzmGzr8=",
+			p1: "nhSnG34jMzQvBTmv",
+			p2: "SACAP-EDUDEX",
+			p3: "1491916313",
+			p4: "api_test",
+			p5: "PBGEHI2BUOP1G04H",
+			p6: "CZ2J70XRMAZR4P7KRDP0MHY6",
+			p7: "VF013T96J2GGR4034PKY5IAMLPBXW1UI",
+			flog: ""
+		},
+		debug_post: [],
+		debug_request: {
+			request: "api_test/",
+			h: "JNTh7lhR6mJQsGmf4V9m/J9v8RzSHQ/OUHAkhzmGzr8=",
+			p1: "nhSnG34jMzQvBTmv",
+			p2: "SACAP-EDUDEX",
+			p3: "1491916313",
+			p4: "api_test",
+			p5: "PBGEHI2BUOP1G04H",
+			p6: "CZ2J70XRMAZR4P7KRDP0MHY6",
+			p7: "VF013T96J2GGR4034PKY5IAMLPBXW1UI",
+			flog: ""
+		},
+		debug_files: {
+			xmlfile: {
+				name: "sample.xml",
+				type: "application/octet-stream",
+				tmp_name: "/tmp/php53f24k",
+				error: 0,
+				size: 4556
+			}
+		}
+	},
+	request_state_id: 20,
+	request_state_text: false,
+	request_initd: 1491916314.0476,
+	request_trmd: 1491916314.0478,
+	request_drtn: "0 secs",
+	request_norcds: false,
+	request_updated_since: false,
+	request_updated_since_uts: false,
+	internal_errors: []
+}
